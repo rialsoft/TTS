@@ -34,7 +34,7 @@ trainer==0.0.36
 coqpit==0.0.17
 # chinese g2p deps
 jieba==0.42.1
-pypinyin=0.50.0
+pypinyin==0.50.0
 # korean
 hangul_romanize==0.1.0
 # gruut+supported langs
