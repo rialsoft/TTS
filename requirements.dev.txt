@@ -1,5 +1,5 @@
-black
-coverage
-isort
-nose2
+black==24.4.1
+coverage==7.5.4
+isort==5.13.2
+nose2==1.3.7
 pylint==2.10.2
